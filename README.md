@@ -5,9 +5,12 @@
 
 # Используемый стэк
 1. React Native - 0.73.1
-2. React Navigation 
-3. TypeScript
-4. Reanimated
-5. Gesture Hundler
-6. React Hooks
+2. Redux Toolkit - 2.0.1
+3. React Navigation - 6.1.9
+4. TypeScript
+5. Reanimated - 3.6.1
+6. Gesture Hundler - 2.14
+7. React Hooks
+8. Formik - 2.4.5
+9. Axios - 1.6.3
 
