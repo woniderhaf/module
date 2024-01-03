@@ -14,3 +14,6 @@
 8. Formik - 2.4.5
 9. Axios - 1.6.3
 
+
+# [Ссылка](https://www.figma.com/templates/mobile-app-design/) на макеты приложений
+
