@@ -37,11 +37,13 @@
 
 ## [Ссылка](https://www.figma.com/templates/mobile-app-design/) на макеты приложений
 
+## Полезные ссылки
 
-### цвет/тема/язык
-
-переменные хранятся в redux с использованием persist, меняются через redux
-нужно наверное создать enum с вариациями и их тоглить
+- [Bounce Checkbox](https://github.com/WrathChaos/react-native-bouncy-checkbox)
+- [Gifter Chat](https://github.com/FaridSafi/react-native-gifted-chat)
+- [Vicroty native xl](https://github.com/FormidableLabs/victory-native-xl)
+- [Pager view](https://github.com/callstack/react-native-pager-view)
+- [FlashList](https://shopify.github.io/flash-list/)
 
 
 
