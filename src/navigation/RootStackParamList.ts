@@ -1,4 +1,6 @@
 export type RootStackParamList = {
   "Profile": undefined,
-  "Tabs": undefined
+  "Tabs": undefined,
+  'Login': undefined,
+  'CreateAccount': undefined
 }
